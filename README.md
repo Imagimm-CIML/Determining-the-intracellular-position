@@ -2,6 +2,8 @@
 
 How to use the imageJ macro and R script to produced the normalized distance profile graph (normalized in X and Y from 0 to 1)  
 
+![shema ](./shema.png)
+
 1) Install the plugin radial profile NN.class in Fiji/plugin.
 The plugin radial profile was modified to Not Normalized (NN) to produce the real radial profile we observe in the image
 
