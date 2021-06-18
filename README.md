@@ -8,7 +8,7 @@ The plugin radial profile was modified to Not Normalized (NN) to produce the rea
 2) Run the Fiji macro "radial_profile_version3.ijm" on the different images (use the czi file) 
  ![confocal image ](./2_.jpg)
 
-3) Run the script named "Radial Profile.R" for each experiment (WT and KO, exp1, exp2, exp3) to produce a normalized profile in X  and Y
+3) Run the script named "RRadial Profiles_normalisation_0to1.R for each experiment (WT and KO, exp1, exp2, exp3) to produce a normalized profile in X  between 0 to 1
 
 4) Run "Mean Profile_09a2021_KO_overlay.R" and "Mean Profile_09a2021_WT_overlay.R" to produce the pool profile for WT1,2,3 and KO1,2,3 with the smooth profile (loess method) and the confidence interval
 
