@@ -14,4 +14,4 @@ The plugin radial profile was modified to Not Normalized (NN) to produce the rea
 
 5) You will obtain the two curves (WT.tiff and KO.tiff)
 
-![WT versus KO radial distance to nucleus ](./Montage.png)
+![WT versus KO radial distance to nucleus ](./Normalized radial profile.png)
