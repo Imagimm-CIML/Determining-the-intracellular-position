@@ -13,4 +13,6 @@ The plugin radial profile was modified to Not Normalized (NN) to produce the rea
 
 5) You will obtain the two curves  (KO.tiff ands WT.tiff)
 
+This plugin was modified to Not Normalized (NN) to produce the real radial profile we observe in the image
 
+![WT versus KO radial distance to nucleus ](./Montage.png)
