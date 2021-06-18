@@ -8,7 +8,7 @@ How to use the imageJ macro and R script to produced normalized distance profile
 The plugin radial profile was modified to Not Normalized (NN) to produce a non normalized radial profile
 
 2) Run the Fiji macro "radial_profile_version3.ijm" on the different images (use the czi file) 
- ![confocal image ](./doc/image_2.png)
+ ![confocal image ](./doc/confocal_image_2.png)
 
 3) Run the script named "Radial Profiles_normalisation_0to1.R" for each experiment containing 20 radial profiles to produce  normalized profiles in X  between 0 to 1 for each profile
 
