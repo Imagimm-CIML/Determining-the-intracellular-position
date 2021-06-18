@@ -14,6 +14,6 @@ The plugin radial profile was modified to Not Normalized (NN) to produce a non n
 
 4) Run "Mean Profile_09a2021_KO_overlay.R" and "Mean Profile_09a2021_WT_overlay.R" to produce the pool profile for WT1,2,3 and KO1,2,3 with the smooth profile (loess method) and the confidence interval
 
-5) You will obtain the two curves (WT.tiff and KO.tiff)
+5) You will obtain the two curves WT and KO graph
 
 ![WT versus KO radial distance to nucleus ](./Normalized_radial_profile.png)
