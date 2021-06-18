@@ -14,6 +14,6 @@ The plugin radial profile (https://imagej.nih.gov/ij/plugins/radial-profile.html
 
 4) Run the R script "Normalize_in _Y_and_Mean_Profiles.R" for the WT and KO experiment to normalize the 20 profiles in Y and mean them togoether using the smooth profile (loess method) and the confidence interval
 
-5) You will obtain the two curves WT and KO 
+5) You will obtain the two graphs  WT and KO for 3 different experiments
 
 ![WT versus KO radial distance to nucleus ](./doc/Normalized_radial_profile.png)
