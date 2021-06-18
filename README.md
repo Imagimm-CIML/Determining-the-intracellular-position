@@ -1,6 +1,6 @@
 # Determining-the-intracellular-position
 
-How to use the imageJ macro and R script to produced the normalized distance profile graph (normalized in X and Y from 0 to 1)  
+How to use the imageJ macro and R script to produced normalized distance profile graph normalized in X and Y from 0 to 1 : 
 
 ![shema ](./shema.png)
 
